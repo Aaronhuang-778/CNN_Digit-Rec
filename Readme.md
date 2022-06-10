@@ -84,4 +84,4 @@ print('\nAccuracy: {}/{} ({:.3f}%)\n'.format(correct, len(test_loader.dataset),
 
 这里调用CNN0.6显示的结果：
 
-​	![1](H:\digitData2\gitlab\1.png)
+​	![1](1.png)
